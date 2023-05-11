@@ -1,0 +1,7 @@
+npx create-html5-boilerplate new-site
+cd new-site
+npm install
+npm run start
+
+mkdir html5-boilerplate
+unzip html5-boilerplate*.zip -d html5-boilerplate
